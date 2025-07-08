@@ -1,4 +1,4 @@
-# 🚀 Fibonacci Calculator (Verilog)
+# Fibonacci Calculator (Verilog)
 
 This project implements a **Fibonacci number calculator** using a **finite state machine (FSM)** and a **datapath module** in Verilog. It demonstrates fundamental digital design principles such as control path design, register file management, ALU operations, and state transitions for computing the nth Fibonacci number.
 
