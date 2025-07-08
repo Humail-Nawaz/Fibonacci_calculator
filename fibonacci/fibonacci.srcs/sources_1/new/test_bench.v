@@ -1,3 +1,6 @@
+// SPDX-License-Identifier: Apache-2.0
+// Copyright 2025 Humail Nawaz
+
 `timescale 1ns / 1ps
 module test_bench();
 reg clk, reset; reg [31:0]n;
