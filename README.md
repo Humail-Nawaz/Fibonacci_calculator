@@ -41,7 +41,7 @@ This project implements a **Fibonacci number calculator** using a **finite state
 
 ---
 
-![Transcript](https://raw.githubusercontent.com/Humail-Nawaz/Fibonacci_calculator/main/transcript.jpeg)
+
 ## How It Works
 
 1. **Reset is asserted**
