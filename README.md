@@ -55,3 +55,6 @@ This project implements a **Fibonacci number calculator** using a **finite state
 ```verilog
 n = 6
 Expected Output: Fibonacci(6) = 8
+
+
+![Transcript](https://raw.githubusercontent.com/Humail-Nawaz/Fibonacci_calculator/main/transcript.jpeg)
